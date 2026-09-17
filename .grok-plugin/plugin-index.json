@@ -614,7 +614,7 @@
       }
     },
     "patch-mcp": {
-      "sha": "953c8f0cc60418a4afde4ebf054658b7f2f97b7d",
+      "sha": "ab0a480fab041711a39c0bbda31c43d98effe16e",
       "version": "1.0.0",
       "components": {
         "mcpServers": [
