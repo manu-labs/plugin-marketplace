@@ -390,7 +390,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/manu-labs/patch-mcp-grok-plugin.git",
-        "sha": "4b79e57221ab114e94c36a1de42937c785c9eab1"
+        "sha": "ecb198c3c44fb62a05c5094b2af95d5f7fdd0c61"
       },
       "homepage": "https://www.patchmcp.com",
       "keywords": ["patch mcp", "patchmcp", "patch-mcp"],

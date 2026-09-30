@@ -630,7 +630,7 @@
       }
     },
     "patch-mcp": {
-      "sha": "4b79e57221ab114e94c36a1de42937c785c9eab1",
+      "sha": "ecb198c3c44fb62a05c5094b2af95d5f7fdd0c61",
       "version": "1.1.0",
       "components": {
         "mcpServers": [
@@ -642,7 +642,7 @@
         "skills": [
           {
             "name": "patch-mcp",
-            "description": "Make phone calls on the user's behalf, text their own verified phone, and read their replies with Patch MCP. Use for er…"
+            "description": "Make phone calls on the user's behalf, text their own verified phone, and receive their replies through the subscribed…"
           }
         ]
       }
